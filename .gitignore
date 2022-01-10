@@ -1,0 +1,8 @@
+node_modules
+.env
+
+csvhennsyu.js
+sample.js
+scrape1.js
+scrape2.js
+scrapecopy.js
